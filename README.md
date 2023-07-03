@@ -1,0 +1,1 @@
+In this file we have installed mysql server and client. also we have created user ,tables ,databases. In this file you will see how to install and use workbench .Also here we have created read replica and how to access them.
